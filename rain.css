@@ -1,0 +1,92 @@
+#title{
+    background-image: url(newbody.png);
+    height: 800px;
+}
+h1{
+    font-family: "Montserrat-Black";
+}
+.header{
+    text-align: center;
+    color: #000000;
+    font-family: 'Gloock', serif;
+    padding-bottom: 40px;
+}
+p{
+    font-size: 25px;
+    color: #000000;
+    font-family: 'Phudu', cursive;
+    width: 1200px;
+}
+#body{
+    height: 400px;
+}
+.carousel-item{
+    background-color: red;
+}
+.why{
+    padding: 100px;
+}
+.paragraph{
+    padding: 80px;
+}
+#why{
+    background-color:#abd699 ;
+    background-color:#ffe26a ;
+    background-color: #75c9b7;
+    border-style:solid;
+    height: 900px;
+    
+    
+}
+.advantages{
+    padding-top:  200px;
+}
+.icon{
+    margin-bottom: 1rem;
+   padding-left: 60px;
+   color: #362FD9;
+}
+.feature-box{
+    
+    padding: 100px;
+}
+#benefits{
+    
+}
+.icon:hover{
+    color:#27E1C1;
+}    
+h3{
+    font-family: 'Signika Negative', sans-serif;
+}
+.card-body{
+    padding:250px;
+}
+h5{
+    text-align: center;
+}
+#success{
+    text-align: center;
+}
+.carousel-item{
+    background-color: #75c9b7;
+}
+.carousel slide{
+    padding-top:100px;
+    height: 600px;
+}
+#footer{
+    background-color: #75c9b7;
+}
+#working{
+    height: 1300px;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+    outline: black;
+    background-color: #210062;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid blue;
+}
